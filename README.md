@@ -50,8 +50,6 @@ All marked pixels are considered as being background (which is then filled with 
 
 The maximum value for the distance between 2 neighbor pixels is a parameter of the algorithm and is set (by trial and error) for each movie.
 
-Pictures from the [test-multiple_fruits](test-multiple_fruits) folder were made with a Nexus 5X phone.
-
 ## History ##
 
 Fruits were filmed at the dates given below (YYYY.MM.DD):

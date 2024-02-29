@@ -27,17 +27,13 @@ Different varieties of the same fruit (apple for instance) are stored as belongi
 
 Folders [Training](Training) and [Test](Test) contain images for training and testing purposes.
 
-Folder [test-multiple_fruits](test-multiple_fruits) contains images with multiple fruits. Some of them are partially covered by other fruits. This is an excelent test for real-world detection.
-
-Folder [src/utils](src/utils) contains the C++ code used for extracting the fruits or vegetables from background.
-
 ## Alternate download ##
 
 The dataset can also be downloaded from: [Kaggle](https://www.kaggle.com/moltean/fruits)
 
 ## How to cite ##
 
-Mihai Oltean, Fruits-360 dataset, 2017-2023.
+Mihai Oltean, Fruits-360 dataset, 2017-.
 
 ## How the Fruits-360 dataset was created ##
 
@@ -128,7 +124,7 @@ Fruits were filmed at the dates given below (YYYY.MM.DD):
 
 MIT License
 
-Copyright (c) 2017-2020 [Mihai Oltean](https://mihaioltean.github.io)
+Copyright (c) 2017- [Mihai Oltean](https://mihaioltean.github.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

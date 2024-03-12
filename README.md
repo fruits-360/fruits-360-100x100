@@ -116,7 +116,7 @@ Fruits were filmed at the dates given below (YYYY.MM.DD):
 
 2019.09.22 - Corn Husk, Cucumber Ripe, Fig, Pear 2, Pear Stone, Tomato not Ripened, Watermelon.
 
-2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360/fruits-360-100x100)
+2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360)
 
 ## License ##
 

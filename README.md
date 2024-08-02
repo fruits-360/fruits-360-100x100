@@ -27,7 +27,11 @@ Folders [Training](Training) and [Test](Test) contain images for training and te
 
 ## Alternate download ##
 
-The dataset can also be downloaded from: [Kaggle](https://www.kaggle.com/moltean/fruits)
+The Fruits-360 dataset can be downloaded from: 
+
+**Kaggle** [https://www.kaggle.com/moltean/fruits](https://www.kaggle.com/moltean/fruits)
+
+**GitHub** [https://github.com/fruits-360](https://github.com/fruits-360)
 
 ## How to cite ##
 

@@ -18,7 +18,7 @@ Number of classes: 155 (fruits, vegetables and nuts).
 
 Image size: 100x100 pixels.
 
-Filename format:
+## Filename format ##
 
 image_index_100.jpg (e.g. 31_100.jpg) or 
 

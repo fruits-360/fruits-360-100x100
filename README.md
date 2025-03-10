@@ -11,11 +11,11 @@ Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pin
 
 Total number of images: 104499.
 
-Training set size: 78288 images (one fruit or vegetable per image).
+Training set size: 78288 images.
 
-Test set size: 26211 images (one fruit or vegetable per image).
+Test set size: 26211 images.
 
-Number of classes: 157 (fruits, vegetables and nuts).
+Number of classes: 157 (fruits, vegetables, nuts and seeds).
 
 Image size: 100x100 pixels.
 

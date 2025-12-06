@@ -1,6 +1,6 @@
 # Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
 
-## Version: 2025.11.30.0 ##
+## Version: 2025.12.06.0 ##
 
 ## Branch: 100x100 ##
 
@@ -9,13 +9,13 @@ Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pin
 
 ## Dataset properties ##
 
-Total number of images: 159949.
+Total number of images: 161494.
 
-Training set size: 119950 images.
+Training set size: 121111 images.
 
-Test set size: 39999 images.
+Test set size: 40383 images.
 
-Number of classes: 228 (fruits, vegetables, nuts and seeds).
+Number of classes: 230 (fruits, vegetables, nuts and seeds).
 
 Image size: 100x100 pixels.
 

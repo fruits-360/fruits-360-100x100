@@ -9,7 +9,7 @@ Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pin
 
 ## Dataset properties ##
 
-Total number of images: 166293.
+Total number of images: 167211.
 
 Training set size: 125406 images.
 

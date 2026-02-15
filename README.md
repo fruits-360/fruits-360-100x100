@@ -1,6 +1,6 @@
 # Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
 
-## Version: 2026.2.15.4 ##
+## Version: 2026.2.15.5 ##
 
 ## Branch: 100x100 ##
 

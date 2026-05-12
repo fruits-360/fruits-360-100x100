@@ -9,13 +9,13 @@ Almonds, Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny S
 
 ## Dataset properties ##
 
-Total number of images: 180401.
+Total number of images: 182945.
 
-Training set size: 135313 images.
+Training set size: 137221 images.
 
-Test set size: 45088 images.
+Test set size: 45724 images.
 
-Number of classes: 259 (fruits, vegetables, nuts and seeds).
+Number of classes: 260 (fruits, vegetables, nuts and seeds).
 
 Image size: 100x100 pixels.
 

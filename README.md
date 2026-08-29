@@ -1,21 +1,21 @@
-# Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
+# Fruits-360: A dataset of images containing fruits, vegetables, nuts, seeds and fungi #
 
-## Version: 2026.5.12.0 ##
+## Version: 2026.8.30.0 ##
 
 ## Branch: 100x100 ##
 
-A high-quality dataset of images containing fruits, vegetables, nuts and seeds. The following fruits, vegetables, nuts and seeds are included: 
-Almonds, Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pink Lady, Red, Red Delicious), Apricot, Avocado, Avocado ripe, Banana (Yellow, Red, Lady Finger), Beetroot Red, Blackberrie, Blueberry, Cabage, Caju seed, Cactus fruit, Cantaloupe (2 varieties), Carambola, Carrot, Cauliflower, Celery, Cherry (different varieties, Rainier), Cherry Wax (Yellow, Red, Black), Cherimoya, Chestnut, Clementine, Cocos, Corn (with husk), Cucumber (ripened, various), Dates, Eggplant (normal and long), Fig, Ginger Root, Gooseberry, Granadilla, Grape (Blue, Pink, White (different varieties)), Grapefruit (Pink, White), Guava, Hazelnut, Huckleberry, Kiwi, Kaki, Kohlrabi, Kumsquats, Lemon (normal, Meyer), Lime, Lychee, Mandarine, Mango (Green, Red), Mangostan, Maracuja, Melon Piel de Sapo, Mulberry, Nectarine (Regular, Flat), Nut (Forest, Pecan), Onion (Red, White), Orange, Papaya, Passion fruit, Peach (different varieties), Pepino, Pear (different varieties, Abate, Forelle, Kaiser, Monster, Red, Stone, Williams), Pepper (Red, Green, Orange, Yellow), Physalis (normal, with Husk), Pineapple (normal, Mini), Pistachio, Pitahaya Red, Plum (different varieties), Pomegranate, Pomelo Sweetie, Potato (Red, Sweet, White), Quince, Rambutan, Raspberry, Redcurrant, Salak, Strawberry (normal, Wedge), Tamarillo, Tangelo, Tomato (different varieties, Maroon, Cherry Red, Yellow, not ripened, Heart), Walnut, Watermelon, Zucchini (white and dark).
+A high-quality dataset of images containing fruits, vegetables, nuts, seeds and fungi. The following fruits, vegetables, nuts and seeds are included: 
+Almonds, Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pink Lady, Red, Red Delicious), Apricot, Avocado, Avocado ripe, Banana (Yellow, Red, Lady Finger), Beetroot Red, Blackberrie, Blueberry, Cabage, Caju seed, Cactus fruit, Cantaloupe (2 varieties), Carambola, Carrot, Cauliflower, Celery, Cherry (different varieties, Rainier), Cherry Wax (Yellow, Red, Black), Cherimoya, Chestnut, Clementine, Cocos, Corn (with husk), Cucumber (ripened, various), Dates, Eggplant (normal and long), Fig, Ginger Root, Gooseberry, Granadilla, Grape (Blue, Pink, White (different varieties)), Grapefruit (Pink, White), Guava, Hazelnut, Huckleberry, Kiwi, Kaki, Kohlrabi, Kumsquats, Lemon (normal, Meyer), Lime, Lychee, Mandarine, Mango (Green, Red), Mangostan, Maracuja, Melon Piel de Sapo, Mulberry, Mushroom (Champignon), Nectarine (Regular, Flat), Nut (Forest, Pecan), Onion (Red, White), Orange, Papaya, Passion fruit, Peach (different varieties), Pepino, Pear (different varieties, Abate, Forelle, Kaiser, Monster, Red, Stone, Williams), Pepper (Red, Green, Orange, Yellow), Physalis (normal, with Husk), Pineapple (normal, Mini), Pistachio, Pitahaya Red, Plum (different varieties), Pomegranate, Pomelo Sweetie, Potato (Red, Sweet, White), Quince, Rambutan, Raspberry, Redcurrant, Salak, Strawberry (normal, Wedge), Tamarillo, Tangelo, Tomato (different varieties, Maroon, Cherry Red, Yellow, not ripened, Heart), Walnut, Watermelon, Zucchini (white and dark).
 
 ## Dataset properties ##
 
-Total number of images: 182945.
+Total number of images: 183893.
 
-Training set size: 137221 images.
+Training set size: 137932 images.
 
-Test set size: 45724 images.
+Test set size: 45961 images.
 
-Number of classes: 260 (fruits, vegetables, nuts and seeds).
+Number of classes: 261 (fruits, vegetables, nuts, seeds and fungi).
 
 Image size: 100x100 pixels.
 
@@ -138,6 +138,8 @@ Fruits were filmed at the dates given below (YYYY.MM.DD):
 2021.09.22 - Apple 6, Cucumber 3.
 
 2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360)
+
+2026.08.30 - First Fungi added.
 
 ## License ##
 
